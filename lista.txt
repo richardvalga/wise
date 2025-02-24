@@ -1,75 +1,54 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/epg.xml"
-#EXTINF:-1 tvg-id="DAZN LA LIGA FHD (SAT) por Tronoss", DAZN LA LIGA FHD (SAT) por Tronoss
-acestream://cc6823f25edb580a5b6b16f9afba0a73554e045f
-#EXTINF:-1 tvg-id="DAZN LIGA FHD MULTIAUDIO por Tronoss", DAZN LIGA FHD MULTIAUDIO por Tronoss
-acestream://93c17ef124fda47d8ecce00a1296c44453000a7b
-#EXTINF:-1 tvg-id="DAZN LA LIGA 2 FHD por Tronoss", DAZN LA LIGA 2 FHD por Tronoss
-acestream://8064caa14428902812c5dc4d3081d8bf0ee1350b
-#EXTINF:-1 tvg-id="DAZN F1 FHD por Tronoss", DAZN F1 FHD por Tronoss
-acestream://4918f3138d184d7b413f37f46bb6a082f0050561
-#EXTINF:-1 tvg-id="DAZN EVENTOS 1 por Tronoss", DAZN EVENTOS 1 por Tronoss
-acestream://de27ac42c305261c772b9f1f6586459f9b34ea9b
-#EXTINF:-1 tvg-id="DAZN EVENTOS 2 por Tronoss", DAZN EVENTOS 2 por Tronoss
-acestream://590a61f3497800918e6cfc10e0864354a06eddd1
-#EXTINF:-1 tvg-id="MOVISTAR GOLF FHD por Tronoss", MOVISTAR GOLF FHD por Tronoss
-acestream://1251847ebf3d3c4be89bb900da80f60bb2edbd62
-#EXTINF:-1 tvg-id="MOVISTAR GOLF 2 FHD por Tronoss", MOVISTAR GOLF 2 FHD por Tronoss
-acestream://8cfca5b5726ac30e131b85c3cc7c7501c4c8fd75
-#EXTINF:-1 tvg-id="MOVISTAR SERIES FHD por Tronoss", MOVISTAR SERIES FHD por Tronoss
-acestream://26473bf58c30e72e5a6c8e76deef407191af1f62
-#EXTINF:-1 tvg-id="MOVISTAR CLASICOS FHD por Tronoss", MOVISTAR CLASICOS FHD por Tronoss
-acestream://7d5328d70dfd297a294c11083b030f5255f4cbbb
-#EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES FHD por Tronoss", M+ LIGA DE CAMPEONES FHD por Tronoss
-acestream://3bda575f7bab66443932709190453c31814fb90a
-#EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 2 FHD por Tronoss", M+ LIGA DE CAMPEONES 2 FHD por Tronoss
-acestream://33703f45fdbc73b649112773d5a6a2f65f375d04
-#EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 3 FHD por Tronoss", M+ LIGA DE CAMPEONES 3 FHD por Tronoss
-acestream://99bed20071311ab3a2710dcc5238699de5f4a4b9
-#EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 4 FHD por Tronoss", M+ LIGA DE CAMPEONES 4 FHD por Tronoss
-acestream://bf1d83d16fa1b2930ec16a9d09d51e2bed533069
-#EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 5 FHD por Tronoss", M+ LIGA DE CAMPEONES 5 FHD por Tronoss
-acestream://e17f4ab7bbefb7bf0283382b5f3f5e352d6e8225
-#EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 6 SD por Tronoss", M+ LIGA DE CAMPEONES 6 SD por Tronoss
-acestream://db620edca5bd1f186d786b60258421f129ad6fb9
-#EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 7 SD por Tronoss", M+ LIGA DE CAMPEONES 7 SD por Tronoss
-acestream://60b9217f902a3bd360da6e4f702b7a802f994560
-#EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 8 SD por Tronoss", M+ LIGA DE CAMPEONES 8 SD por Tronoss
-acestream://77402f2a490331c1f5c60341d38bbd3ade0896e1
-#EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 14 SD por Tronoss", M+ LIGA DE CAMPEONES 14 SD por Tronoss
-acestream://02e0adcabc54a76e8bfdd574e20197e2724e9154
-#EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 15 SD por Tronoss", M+ LIGA DE CAMPEONES 15 SD por Tronoss
-acestream://a4bfeb2fc596bed93b284f4ce61c15c8a8c09863
-#EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 16 SD por Tronoss", M+ LIGA DE CAMPEONES 16 SD por Tronoss
-acestream://3a5b1d8914ab145b6aacfc36e1990cc401eb1834
-#EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 17 SD por Tronoss", M+ LIGA DE CAMPEONES 17 SD por Tronoss
-acestream://b1d82b868d9e6bfb1714a58f96b7eec792673533
-#EXTINF:-1 tvg-id="Super Copa OrangeTV por Tronoss", Super Copa OrangeTV por Tronoss
-acestream://23f02ba817225232479d04bc11a13e886d7f799b
-#EXTINF:-1 tvg-id="M+ Super Copa por Tronoss", M+ Super Copa por Tronoss
-acestream://be5e5d5840ca1c9e0dd91b53aef9b6b23c142088
-#EXTINF:-1 tvg-id="ORANGE LIGA (FIBRA) por Tronoss", ORANGE LIGA (FIBRA) por Tronoss
-acestream://d5feb1c3a83b7e59f85ce5e6d0573c4bf36659ff
-#EXTINF:-1 tvg-id="LA LIGA TV UHD por Tronoss", LA LIGA TV UHD por Tronoss
-acestream://7e63c60c1b0f5e5ad1e1266011326232fb8c7e53
-#EXTINF:-1 tvg-id="LA LIGA TV BAR FHD por Tronoss", LA LIGA TV BAR FHD por Tronoss
-acestream://1ca6d0fb0581443018670640d7e0ffeb14387004
-#EXTINF:-1 tvg-id="DAZN F1 FHD por Tronoss", DAZN F1 FHD por Tronoss
-acestream://7d3b62576b534fcae0d783128cacf43bc356230f
-#EXTINF:-1 tvg-id="DAZN 1 FHD por Tronoss", DAZN 1 FHD por Tronoss
-acestream://28e2f4bd236cbfc00503b975e8a51cfa95542bea
-#EXTINF:-1 tvg-id="DAZN 4 FHD por Tronoss", DAZN 4 FHD por Tronoss
-acestream://1fe11abaa096b24ad150cb3bbbf81883f82782f4
-#EXTINF:-1 tvg-id="#VAMOS FHD por Tronoss", #VAMOS FHD por Tronoss
-acestream://5317e5c61bba23fb731598367bf293156440318f
-#EXTINF:-1 tvg-id="#VAMOS FHD 2 por Tronoss", #VAMOS FHD 2 por Tronoss
-acestream://9692132869cf08fd8768d1240669eff8bb1129f7
-#EXTINF:-1 tvg-id="ELLAS #V FHD por Tronoss", ELLAS #V FHD por Tronoss
-acestream://a258f0572ae1432ae8d52162e586b116010679dc
-#EXTINF:-1 tvg-id="EUROSPORT 2 FHD por Tronoss", EUROSPORT 2 FHD por Tronoss
-acestream://5f3658bd6f85f2d883afdbceaf9671c837f7c61c
-#EXTINF:-1 tvg-id="DEPORTES FHD por Tronoss", DEPORTES FHD por Tronoss
-acestream://f4a5545ab93ea29144debcbba87204b4f4a7ccf5
-#EXTINF:-1 tvg-id="DEPORTES 2 FHD (SOLO EVENTOS) por Tronoss", DEPORTES 2 FHD (SOLO EVENTOS) por Tronoss
-acestream://7802e1c784d8b5d5e1b1534ca085990c8e5e1b67
-#EXTINF:-1 tvg-id="M. ACCION FHD por Tronoss", M. ACCION FHD por Tronoss
-acestream://4e62333d37ab424ed0cf30d4adbd293aff729443
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml"
+
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1", DAZN F1 1080  d628
+acestream://d6281d4e6310269b416180442a470d23a4a99dc9
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1", DAZN F1 1080  2c6e
+acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1", DAZN F1 1080  71ee
+acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1", DAZN F1 720  2682
+acestream://268289e7a3c5209960b53b4d43c8c65fab294b85
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGA", M+ LaLiga 1080P  94d3
+acestream://94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGA", M+ LaLiga 1080 MultiAudio  d3de
+acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGA", M+ LaLiga 1080 MultiAudio  6d05
+acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGA", M+ LaLiga 720  1bc4
+acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG1", M+ LaLiga 2 1080  83c6
+acestream://83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG1", M+ LaLiga 2 720  f31a
+acestream://f31a586422c9244196c810c84b6c85da350318a5
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG2", M+ LaLiga 3 1080  ebe1
+acestream://ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG2", M+ LaLiga 3 720  8356
+acestream://835639b89db00cc0d94660da3c10b6e38bfbcdc1
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG3", M+ LaLiga 4 1080  6869
+acestream://68697ea4f261289d97bbc3418ad3cbc4180aa32f
+#EXTINF:-1 group-title="LaLiga" tvg-id="LaLiga TV BAR" tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png", La Liga BAR 1080  608b
+acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+#EXTINF:-1 group-title="LaLiga" tvg-id="LaLiga TV BAR" tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png", La Liga BAR 1080  94d3
+acestream://94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNLI", DAZN LaLiga 1080 MultiAudio  110d
+acestream://110d441ddc9713a7452588770d2bc85504672f47
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNLI", DAZN LaLiga 1080 MultiAudio  ec29
+acestream://ec29289b0b14756e686c03a501bae1efa05be70c
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNLI", DAZN LaLiga 1080 MultiAudio  6de4
+acestream://6de4794cd02f88f14354b5996823413a59a1de0f
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNLI", DAZN LaLiga 720  8c8c
+acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNL2", DAZN LaLiga 2 1080 MultiAudio  51db
+acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNL2", DAZN LaLiga 2 720 MultiAudio  97ba
+acestream://97ba38d47680954be40e48bd8f43e17222fefecb
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%20HD.png", LaLiga Hypermotion 1080  b270
+acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%20HD.png", LaLiga Hypermotion 720  121f
+acestream://121f719ebb94193c6086ef92865cf9b197750980
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png", LaLiga Hypermotion 2 1080  0cfd
+acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png", LaLiga Hypermotion 2 720  0a33
+acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png", LaLiga Hypermotion 3  fefd
+acestream://fefd45ed6ff415e05f1341b7d9da2988eacd13ea3
